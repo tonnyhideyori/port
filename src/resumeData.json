@@ -62,7 +62,7 @@
     {
       "id": "3",
       "name": "Portfolio Web App",
-      "webLink": "https://pro.alcalgroup.com",
+      "webLink": "https://proedwin.herokuapp.com",
       "company": "Personal Project",
       "timeLine": "July 2017",
       "summary":
@@ -105,7 +105,7 @@
       "major": "Computer Science",
       "degree": "Master of Science in Computer Science",
       "endDate": " 2020",
-      "classes": "UnderGraduate Course work: Text mining, Cloud computing, Programming Languages, Machine learing,IT security,wireless security, and Smart systems."
+      "classes": "Graduate Course work: Text mining, Cloud computing, Programming Languages, Machine learing,IT security,wireless security, and Smart systems."
     }
   ],
 
@@ -116,40 +116,33 @@
     },
     {
       "lang": "CSS",
-      "fluency": "80%"
+      "fluency": "70%"
     },
     {
       "lang": "JavaScript",
       "fluency": "85%"
     },
-    {
-      "lang": "Java",
-      "fluency": "75%"
-    },
-    {
-      "lang": "C/C++",
-      "fluency": "60%"
-    },
+   
 
     {
       "lang": "ReactJS",
-      "fluency": "79%"
+      "fluency": "75%"
     },
     {
       "lang": "NodeJS",
-      "fluency": "70%"
-    },
-    {
-      "lang": "Mysql",
       "fluency": "80%"
     },
     {
-      "lang": "Git",
+      "lang": "Mysql",
       "fluency": "70%"
     },
     {
+      "lang": "Git",
+      "fluency": "60%"
+    },
+    {
       "lang": "MongoDB",
-      "fluency": "50%"
+      "fluency": "60%"
     }
   ],
 
@@ -165,6 +158,10 @@
     {
       "language": "French",
       "fluency": "61%"
+    },
+    {
+      "language":"Germany",
+      "fluency":"10%"
     }
   ],
 
