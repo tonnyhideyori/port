@@ -1,0 +1,179 @@
+{
+  "work": [
+    {
+      "id": "0",
+      "company": "Nzasa Secondary School",
+      "position": "Tutor",
+      "webLink": "",
+      "timeLine": "August 2016 - September 2016",
+      "summary":
+        "Taught  Algebra for two hours a week. Helped students individually on how to approach their in-class assignments. Most students scored above average in their quizzes and exams.",
+      "highlights": []
+    },
+
+    {
+      "id": "1",
+      "company": "Undi Consulting Group",
+      "position": "Software Engineer Intern",
+      "webLink": "https://www.undi.co.tz",
+      "timeLine": "October 2016 - January 2017",
+      "summary":
+        "IT assistant at the company helping with software configuration and installation,Network Admin, and Computer Maintenance. currently, in the team to redesign the company's website."
+    },
+    {
+      "id": 2,
+      "company": "Tujenge Technologies Limited",
+      "position": "Web developer",
+      "webLink": "https://tujengetech.co.tz",
+      "timeLine": "February 2017 - Now",
+      "summary":
+        " Member of the team  building a University communications system (DAAS) and other various mobile and web applications project."
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "0",
+      "name": "Alcal Group Website",
+      "webLink": "https://alcalgroup.com",
+      "company": "Paid Project",
+      "timeLine": "September 2017",
+      "summary":
+        "Built a a Web App  using ReactJS,replacing the older version which used wordpress tamplates. The new website is responsive and more attractive."
+    },
+    {
+      "id": "1",
+      "name": "Hackernews Web App",
+      "webLink": "https://hacker.alcalgroup.com",
+      "company": "Personal Project",
+      "timeLine": "August 2017",
+      "summary":
+        "Built a Hackernews wep app that let users: search for the news from Hackernews , and view a list of  top news by default. Used ReactJS, HTML, and CSS to build the app. Performed integrational and unit test to elimante bugs in my application."
+    },
+    {
+      "id": "2",
+      "name": "Undi consulting group",
+      "webLink": "https://tonny.alcalgroup.com",
+      "company": "Paid Project",
+      "timeLine": "October 2017-",
+      "summary":
+        "currently, redesigning the website of Undi Consulting,making it more responsive,fast and more dynamic than the current website. Using ReactJs, HTML, and CSS to build the app."
+    },
+    {
+      "id": "3",
+      "name": "Portfolio Web App",
+      "webLink": "https://pro.alcalgroup.com",
+      "company": "Personal Project",
+      "timeLine": "July 2017",
+      "summary":
+        "Built my portfoliio web application that shows my various accomplishments. Used JavaScript, react, JSON, HTML, and CSS to build it. Wrote test cases using jest to make my applicaton more robust. NB: I have two portfolios; this one and another below on the link"
+    },
+
+    {
+      "id": "4",
+      "name": "Survey Web App",
+      "webLink": "https://evening-caverns-69584.herokuapp.com",
+      "company": "Personal Project",
+      "timeLine": "November 2017",
+      "summary":
+        "Survey app enables a client to make a survey campaigns and monitors the results.Built  survey App to show achievement in full stack web deveopment. Used JavaScript libraries like NodeJs for back-end and ReactJs with Redux for front-end.Also  mixture of two different CSS frameworks were used i.e bootstrap and materializeCSS."
+    },
+
+    {
+      "id": "5",
+      "name": "Shell",
+      "company": "Operating Systems, Univeristé de Tlemcen",
+      "timeLine": "Jan 2016 - April 2016",
+      "summary":
+        "Built a Unix shell that interpreted a set of given command lines. Implemented pipes, redirections, and background that enabled the shell to send the output of oneprogram to another program for further processing. Passed many test cases and resulted into a robust and reliable shell."
+    }
+  ],
+
+  "edu": [
+    {
+      "id": "1",
+      "institution": "Université de Tlemcen",
+      "major": "Computer Science",
+      "degree": "Bachelor of Science in Computer Science",
+      "endDate": "June 2016",
+      "classes":
+        "UnderGraduate Course work: Operating Systems, Software Engineering, Programming Languages, Algorithms and DataStructures, and Database management."
+    },
+    {
+      "id": "0",
+      "institution": "Universität Passau",
+      "major": "Computer Science",
+      "degree": "Master of Science in Computer Science",
+      "endDate": " 2020",
+      "classes": "UnderGraduate Course work: Text mining, Cloud computing, Programming Languages, Machine learing,IT security,wireless security, and Smart systems."
+    }
+  ],
+
+  "skills": [
+    {
+      "lang": "HTML",
+      "fluency": "90%"
+    },
+    {
+      "lang": "CSS",
+      "fluency": "80%"
+    },
+    {
+      "lang": "JavaScript",
+      "fluency": "85%"
+    },
+    {
+      "lang": "Java",
+      "fluency": "75%"
+    },
+    {
+      "lang": "C/C++",
+      "fluency": "60%"
+    },
+
+    {
+      "lang": "ReactJS",
+      "fluency": "79%"
+    },
+    {
+      "lang": "NodeJS",
+      "fluency": "70%"
+    },
+    {
+      "lang": "Mysql",
+      "fluency": "80%"
+    },
+    {
+      "lang": "Git",
+      "fluency": "70%"
+    },
+    {
+      "lang": "MongoDB",
+      "fluency": "50%"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Swahili",
+      "fluency": "95%"
+    },
+    {
+      "language": "English",
+      "fluency": "85%"
+    },
+    {
+      "language": "French",
+      "fluency": "61%"
+    }
+  ],
+
+  "activities": [
+    {
+      "id": "0",
+      "firstActivity": "Running and other physical activities "
+    }
+  ],
+
+  "references": []
+}
