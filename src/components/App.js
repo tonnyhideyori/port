@@ -11,7 +11,7 @@ class App extends Component {
   render() {
     return (
       <div
-        className="w3-container w3-margin-top w3-center"
+        className="w3-container w3-margin-top w3-left"
         style={{
           maxWidth: "100%"
         }}

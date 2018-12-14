@@ -13,14 +13,13 @@ const Adress = props => {
         Engineer
       </p>
       <p>
-        <i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-red" />Dar-es-
-        salaam, Tanzania
+        <i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-red" />Passau,Bavaria,Germany
       </p>
       <p>
         <i className="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-red" />eismail44@gmail.com
       </p>
       <p>
-        <i className="fa fa-phone fa-fw w3-margin-right w3-large w3-text-red" />0687-918-188
+        <i className="fa fa-phone fa-fw w3-margin-right w3-large w3-text-red" />+49-151-6608-8240
       </p>
       <hr />
     </div>
