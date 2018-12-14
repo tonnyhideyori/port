@@ -12,7 +12,7 @@ const Info = props => {
     <div>
       <Nav />
       <div
-        className="w3-display-container w3-center w3-row"
+        className="w3-display-container w3-left w3-row"
         style={{
           display: "inline-block",
           width: "100%",
