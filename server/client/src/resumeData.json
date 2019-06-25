@@ -33,7 +33,7 @@
 
   "projects": [
     {
-      "id": "0",
+      "id": "7",
       "name": "Alcal Group Website",
       "webLink": "https://alcalgroup.com",
       "company": "Paid Project",
@@ -42,7 +42,7 @@
         "Built a a Web App  using ReactJS,replacing the older version which used wordpress tamplates. The new website is responsive and more attractive."
     },
     {
-      "id": "1",
+      "id": "6",
       "name": "Hackernews Web App",
       "webLink": "https://hacker.alcalgroup.com",
       "company": "Personal Project",
@@ -51,16 +51,16 @@
         "Built a Hackernews wep app that let users: search for the news from Hackernews , and view a list of  top news by default. Used ReactJS, HTML, and CSS to build the app. Performed integrational and unit test to elimante bugs in my application."
     },
     {
-      "id": "2",
+      "id": "5",
       "name": "Undi consulting group",
       "webLink": "https://tonny.alcalgroup.com",
       "company": "Paid Project",
-      "timeLine": "October 2017-",
+      "timeLine": "October 2017- November 2018",
       "summary":
         "currently, redesigning the website of Undi Consulting,making it more responsive,fast and more dynamic than the current website. Using ReactJs, HTML, and CSS to build the app."
     },
     {
-      "id": "3",
+      "id": "4",
       "name": "Portfolio Web App",
       "webLink": "https://proedwin.herokuapp.com",
       "company": "Personal Project",
@@ -70,7 +70,7 @@
     },
 
     {
-      "id": "4",
+      "id": "3",
       "name": "Survey Web App",
       "webLink": "https://evening-caverns-69584.herokuapp.com",
       "company": "Personal Project",
@@ -80,12 +80,29 @@
     },
 
     {
-      "id": "5",
+      "id": "2",
       "name": "Shell",
       "company": "Operating Systems, Univeristé de Tlemcen",
       "timeLine": "Jan 2016 - April 2016",
       "summary":
         "Built a Unix shell that interpreted a set of given command lines. Implemented pipes, redirections, and background that enabled the shell to send the output of oneprogram to another program for further processing. Passed many test cases and resulted into a robust and reliable shell."
+    },
+    {
+      "id": "1",
+      "name": "Duka-Shop web App",
+      "webLink": "https://dukashop.herokuapp.com/",
+      "company": "Personal Project",
+      "timeLine": "February 2019 - April 2019",
+      "summary":
+        "Duka app is a simple sales point and inventory management web application. I bulit this app to help my bother who has a pharmacy, to manage his pharmacy digitally. I use NodeJs and expressJs for backend server and the data are persisted with MongoDB. For Frontend,I used Reactjs and Reduxjs. The link provided is the demo not the website my client uses so feel free to try"
+    },{
+      "id": "0",
+      "name": "Fullstacked web app",
+      "webLink": "https://fullstacked.herokuapp.com",
+      "company": "Personal Project",
+      "timeLine": "June 2019 - June 2019",
+      "summary":
+        "This app is part of a tutorial I have prepared for javascript newbei especially who focuses on Nodejs+Express+MongoDB+Reactjs+Redux. The link for the tutorial will be provided after official publication"
     }
   ],
 
@@ -105,7 +122,7 @@
       "major": "Computer Science",
       "degree": "Master of Science in Computer Science",
       "endDate": " 2020",
-      "classes": "Graduate Course work: Text mining, Cloud computing, Programming Languages, Machine learing,IT security,wireless security, and Smart systems."
+      "classes": "Graduate Course work: Text mining, Database Technologies, Programming Languages, Machine learing,IT security, and Smart systems."
     }
   ],
 
