@@ -37,8 +37,8 @@ const Info = props => {
             <Languages languages={props.data.languages} />
           </div>
         </div>
+        <Footer />
       </div>
-      <Footer />
     </div>
   );
 };
